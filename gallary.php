@@ -84,7 +84,7 @@
         <div class="container">
             <div class="row">
                 <div class="gallery col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                    <h1 class="gallery-title">Gallery</h1>
+                    <h1 class="gallery-title"><?php echo strtoupper('Gallery')?></h1>
                     <div align="center">
 
 
