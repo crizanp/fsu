@@ -39,7 +39,7 @@
                                                 <h1 class="heading-title float-left">Bachelor in Computer Engineering
                                                     BCT</h1>
                                             </header>
-                                            <p style="font-size: medium;"> Computer engineering is a discipline that
+                                            <p style="font-size: medium;"> <?php echo strtoupper('Computer engineering') ?> is a discipline that
                                                 integrates several fields of electrical engineering and computer science
                                                 required to develop computer hardware and software. Computer
                                                 engineers usually have training in electronic engineering (or electrical

@@ -39,7 +39,7 @@
                                                 <h1 class="heading-title float-left">Bachelor in Civil Engineering ( BCE
                                                     )</h1>
                                             </header>
-                                            <p style="font-size: medium;"> Civil Engineering is a program that focuses
+                                            <p style="font-size: medium;"> <?php echo strtoupper('Civil Engineering')?> is a program that focuses
                                                 on the design, construction, and maintenance of infrastructure projects.
                                                 Students gain knowledge in areas such as structural engineering,
                                                 geotechnical engineering, transportation engineering, environmental

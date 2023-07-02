@@ -40,7 +40,7 @@
                                                     ( BEL )
                                                 </h1>
                                             </header>
-                                            <p style="font-size: medium;">A Bachelor's degree in Electrical Engineering
+                                            <p style="font-size: medium;">A Bachelor's degree in <?php echo strtoupper('Electrical Engineering')?>
                                                 is a comprehensive program that prepares students for a dynamic and
                                                 rewarding career in the field of electrical systems and technology.
                                                 Through a blend of theoretical knowledge and practical skills, students

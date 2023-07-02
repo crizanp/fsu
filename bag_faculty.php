@@ -41,8 +41,8 @@
                                                     ( BAG )
                                                 </h1>
                                             </header>
-                                            <p style="font-size: medium;"> A Bachelor's degree in Agricultural
-                                                Engineering integrates engineering principles with agricultural sciences
+                                            <p style="font-size: medium;"> A Bachelor's degree in <?php echo strtoupper('Agricultural
+                                                Engineering') ?> integrates engineering principles with agricultural sciences
                                                 to address challenges in the farming industry. Students gain knowledge
                                                 in areas such as soil and water management, crop production, farm
                                                 machinery, irrigation systems, and environmental sustainability. They

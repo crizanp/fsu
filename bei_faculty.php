@@ -40,8 +40,8 @@
                                                     Communication
                                                     BEI</h1>
                                             </header>
-                                            <p style="font-size: medium;"> Bachelor's degree in Electronics and
-                                                Communication Engineering is a comprehensive program that prepares
+                                            <p style="font-size: medium;"> Bachelor's degree in <?php echo strtoupper('Electronics and
+                                                Communication Engineering')?> is a comprehensive program that prepares
                                                 students for a career in the dynamic field of electronic systems and
                                                 communication technologies. Through a combination of theoretical
                                                 knowledge and practical skills, students learn about electronic

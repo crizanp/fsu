@@ -40,7 +40,7 @@
                                                     (BME)
                                                 </h1>
                                             </header>
-                                            <p style="font-size: medium;"> Mechanical Engineering iprovides students
+                                            <p style="font-size: medium;"> <?php echo strtoupper('Mechanical Engineering')?> iprovides students
                                                 with a comprehensive understanding of mechanical systems and their
                                                 applications. It covers fundamental concepts like mechanics,
                                                 thermodynamics, materials science, and fluid dynamics. Students also

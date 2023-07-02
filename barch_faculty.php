@@ -39,7 +39,7 @@
                                                 <h1 class="heading-title float-left">Bachelor in Architecture ( B.Arch )
                                                 </h1>
                                             </header>
-                                            <p style="font-size: medium;"> A Bachelor's degree in Architecture is a
+                                            <p style="font-size: medium;"> A Bachelor's degree in <?php echo strtoupper('Architecture')?> is a
                                                 five-year undergraduate program that equips students with the knowledge
                                                 and skills to design and create innovative and functional buildings and
                                                 structures. Throughout the program, students learn about architectural
